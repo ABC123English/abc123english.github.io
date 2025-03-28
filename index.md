@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: "Hindi Master - Guide for Hindi Alphabets"
+title: "ABC 123 Fun - Guide for English Alphabets"
 #permalink: /marketing/
 ---
 
@@ -223,7 +223,7 @@ title: "Hindi Master - Guide for Hindi Alphabets"
 <!-- Top-right Buttons -->
 <div class="top-right-buttons">
   <a href="faq" class="button-link">FAQs</a>
-  <a href="https://learnhindi.github.io/privacy-policy/" class="button-link">Privacy Policy</a>
+  <a href="https://abc123english.github.io/privacy-policy/" class="button-link">Privacy Policy</a>
 </div>
 
 <div class="content-container">
@@ -234,18 +234,18 @@ title: "Hindi Master - Guide for Hindi Alphabets"
 
   <!-- Right half with text and button -->
   <div class="right-half">
-    <div class="title">Introducing Hindi Master - Guide for Hindi alphabets</div>
+    <div class="title">Introducing ABC 123 Fun - Guide for English alphabets</div>
     <div class="description">
-      "Empowering young minds to trace the roots of hindi language, one Hindi letter at a time."
+      "Empowering young minds to trace the roots of english language, one English letter at a time."
     </div>
     <div class="additional-info">
-      This app will guide children and adults to write Hindi Vowels, Consonants, Numbers, and Barhakhadi.
+      This app will guide children and adults to write English Consonants(Capital and Small) and Numbers.
     </div>
     <!-- App Store Button and Contact Label -->
     <div class="app-store-container">
       <a href="https://apps.apple.com/us/app/barhakhari/id6740243356" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
       <div class="contact-label">
-        Contact us: <b>golearnhindi@gmail.com</b>
+        Contact us: <b>golearnenglishfun@gmail.com</b>
       </div>
     </div>
   </div>
