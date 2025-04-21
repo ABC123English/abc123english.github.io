@@ -41,7 +41,7 @@ title: "ABC 123 Fun - Guide for English Alphabets"
     height: 100%;
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba(0, 0, 1, 0.1);
     z-index: -1;
   }
 
@@ -243,7 +243,7 @@ title: "ABC 123 Fun - Guide for English Alphabets"
     </div>
     <!-- App Store Button and Contact Label -->
     <div class="app-store-container">
-      <a href="https://apps.apple.com/us/app/barhakhari/id6740243356" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
+      <a href="https://apps.apple.com/us/app/barhakhari/id6743778748" class="app-store-button" target="_blank" aria-label="Download on the App Store"></a>
       <div class="contact-label">
         Contact us: <b>golearnenglishfun@gmail.com</b>
       </div>
