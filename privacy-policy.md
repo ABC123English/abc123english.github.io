@@ -16,7 +16,7 @@ permalink: /privacy-policy/
 
 # Privacy Policy
 
-Effective Date: 1 Jan 2025
+Effective Date: 1 April 2025
 
 At ABC 123 Fun, we value the privacy and safety of all users, including children and adults. This privacy policy outlines how we collect, use, and protect data associated with the app, in compliance with regulations such as **COPPA (Children’s Online Privacy Protection Act)** and **GDPR-K (General Data Protection Regulation for Kids)**. 
 
