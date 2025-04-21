@@ -41,7 +41,7 @@ title: "ABC 123 Fun - Guide for English Alphabets"
     height: 100%;
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
-    background-color: rgba(0, 0, 1, 0.1);
+    background-color: rgba(0, 0, 0, 0.1);
     z-index: -1;
   }
 
