@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: "ABC 123 Fun - Guide for English Alphabets"
+title: "ABC 123 Fun - English, Math & Life Skills for Kids"
 #permalink: /marketing/
 ---
 
@@ -234,12 +234,15 @@ title: "ABC 123 Fun - Guide for English Alphabets"
 
   <!-- Right half with text and button -->
   <div class="right-half">
-    <div class="title">Introducing ABC 123 Fun - Guide for English alphabets</div>
+    <div class="title">Introducing ABC 123 Fun - English, Math & Life Skills for Kids</div>
     <div class="description">
-      "Empowering young minds to trace the roots of english language, one English letter at a time."
+      "Empowering young minds to explore the world of English and early learning — one fun activity at a time."
     </div>
     <div class="additional-info">
-      This app will guide children and adults to write English Consonants(Capital and Small) and Numbers.
+      This all-in-one educational app is designed to help children and beginners build strong foundational skills in English and early learning through fun and engaging activities.
+Kids can trace English alphabets (capital and small) and numbers to develop writing skills, while exploring a wide range of topics—such as days of the week, months, shapes, colors, animals, birds, flowers, foods, fruits, vegetables, clothes, vehicles, family, body parts, stationery, occupations, directions, grammar, seasons, and good habits—through interactive games and listening exercises.
+The app also features a phonics tool that listens to children's pronunciation of the alphabet to help them improve accuracy and confidence.
+Perfect for early learners, this app combines education and entertainment to make learning English and essential life skills both effective and fun.
     </div>
     <!-- App Store Button and Contact Label -->
     <div class="app-store-container">
