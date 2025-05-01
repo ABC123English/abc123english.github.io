@@ -6,72 +6,73 @@ title: "FAQs - ABC 123 Fun App"
 # Frequently Asked Questions (FAQs)
 
 ### 1. **What is the purpose of the ABC 123 Fun app?**
-The ABC 123 Fun app is designed to help kids/adult learn to write English alphabets, including consonants(capital & small) and numbers. It combines interactive learning tools with engaging activities to make the learning process fun and effective.
+ABC 123 Fun is an all-in-one educational app designed to help children and beginners learn English alphabets (capital and small), numbers, and a wide range of foundational topics. It uses tracing tools, games, phonics, and listening exercises to make learning interactive and fun.
 
 ---
 
 ### 2. **What features are available in the app?**
-- Learn to write English Consonants(Capital & Small) and Numbers.
-- Play a memory flip game with alphabets and their related images.
-- Learn words associated with English alphabets.
-- Switch between **Assistive Mode** and **Manual Mode** for alphabet tracing.
-- Adjust background sound and volume settings from the settings screen.
-- Play a quiz game with alphabets and animal sounds.
-- Play other fun game.
-- Enjoy watching youtube videos of kids english rhymes.
-- Enjoy free sketching and free writing canvas.
+- Trace English alphabets (capital & small) and numbers.
+- Learn English vocabulary across categories like days, months, shapes, colors, animals, birds, flowers, foods, fruits, vegetables, clothes, vehicles, body parts, occupations, directions, and more.
+- Practice phonics: the app listens and gives feedback on ABC pronunciation.
+- Switch between **Assistive Mode** and **Manual Mode** for tracing.
+- Play memory and matching games with alphabets and images.
+- Enjoy quizzes on alphabet sounds, vocabulary, and animals.
+- Explore listening exercises and learning games for grammar, seasons, good habits, and early math concepts.
+- Watch curated YouTube videos of kids’ English rhymes (with parental gate).
+- Use a free sketching and writing canvas.
 
 ---
 
 ### 3. **What is the memory flip game?**
-The memory flip game is a fun activity where kids/adult match English alphabets with related images. It’s designed to reinforce learning through visual and memory-based challenges.
+The memory flip game is a matching activity where users pair alphabets with corresponding images. It helps reinforce recognition and memory skills through visual learning.
 
 ---
 
-### 4. **How does the assistive mode work?**
-The assistive mode provides guidance while tracing alphabets, helping kids/adults follow the correct path. In manual mode, kids/adults can trace the alphabets freely without guidance.
+### 4. **What is the phonics listening feature?**
+The app includes a phonics mode that listens to how children pronounce letters (A–Z) and gives feedback to help improve pronunciation and build phonemic awareness.
 
 ---
 
-### 5. **Can I adjust the app's background sound or volume?**
-Yes, you can toggle the background sound on or off and adjust the volume in the settings screen.
+### 5. **How does the assistive mode work?**
+Assistive mode guides users through proper letter and number tracing paths. Manual mode allows free tracing without guidance for more independent practice.
 
 ---
 
-### 6. **Are there ads in the app?**
-No, the app do not display ads during use.
+### 6. **Can I adjust the app's background sound or volume?**
+Yes. You can toggle background sound and adjust volume settings in the app’s settings menu.
 
 ---
 
-### 7. **What does the in-app purchase include?**
-The one-time in-app purchase removes ads from the app, providing an uninterrupted learning experience for user.
+### 7. **Are there ads in the app?**
+No, the app does not display ads during use, ensuring a safe experience for kids.
 
 ---
 
-### 8. **Is the app safe for kids?**
-Yes, the app is specifically designed for kids with educational content and interactive games. We prioritize providing a safe and engaging environment for learning.
+### 8. **What does the in-app purchase include?**
+The in-app purchase unlocks the full version of the app and removes any usage limitations, offering an uninterrupted learning experience.
 
 ---
 
-### 9. **Can I switch between assistive and manual modes?**
-Yes, you can easily switch between the two modes from the settings screen. This allows user to choose the learning method that works best for them.
+### 9. **Is the app safe for kids?**
+Yes. The app is designed specifically for kids aged 4+, with age-appropriate content, no personal data collection, and built-in safety features such as parental gates for external links.
 
 ---
 
-### 10. **How do I report an issue or provide feedback?**
-If you encounter any issues or have feedback, please contact us at **golearnenglishfun@gmail.com**. We’d love to hear from you and are happy to assist.
+### 10. **Can I switch between assistive and manual modes?**
+Yes. You can easily switch between tracing modes from the settings screen to match your child’s learning preference.
 
 ---
 
 ### 11. **Can I use the app offline?**
-No you cannot use the app offline.
+Some core features like tracing and vocabulary games work offline, but an internet connection is required for features such as YouTube videos, certain downloadable content, and phonics feedback.
 
 ---
 
 ### 12. **Will there be more features or updates in the future?**
-Yes, we are continuously working to improve the app and add new features. Stay tuned for updates!
+Yes! We are continuously working to add new content and features based on user feedback. Stay updated via app notifications or app store updates.
 
 ---
 
-If your question is not listed here, feel free to contact us at **golearnenglishfun@gmail.com** for further assistance.
+If your question is not listed here, feel free to contact us at **golearnenglishfun@gmail.com** — we’re happy to help!
+
 
