@@ -63,7 +63,7 @@ Yes. You can easily switch between tracing modes from the settings screen to mat
 ---
 
 ### 11. **Can I use the app offline?**
-Some core features like tracing and vocabulary games work offline, but an internet connection is required for features such as YouTube videos, certain downloadable content, and phonics feedback.
+Some core features like tracing and vocabulary games work offline, but an internet connection is required for features such as certain downloadable content, and phonics feedback.
 
 ---
 
