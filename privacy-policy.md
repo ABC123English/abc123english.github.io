@@ -16,92 +16,89 @@ permalink: /privacy-policy/
 
 # Privacy Policy
 
-Effective Date: 1 May 2025
+**Effective Date: 1 May 2025**
 
-At ABC 123 Fun, we value the privacy and safety of all users, including children and adults. This privacy policy outlines how we collect, use, and protect data associated with the app, in compliance with regulations such as **COPPA (Children’s Online Privacy Protection Act)** and **GDPR-K (General Data Protection Regulation for Kids)**. 
-
-We assure you that Learn Hindi takes your privacy seriously and strives to create a safe, educational environment for all.
+At **ABC 123 Fun**, we prioritize the privacy and safety of all users, especially children. This privacy policy explains how we collect, use, and protect your data in accordance with laws such as **COPPA (Children’s Online Privacy Protection Act)** and **GDPR-K (General Data Protection Regulation for Kids)**.
 
 ---
 
 ### Data Collection
 
-**ABC 123 Fun** is designed to limit data collection while maintaining app functionality. Below is a summary of what we collect and why:
+**ABC 123 Fun** is designed to minimize data collection while providing a rich and interactive learning experience. Here's what we collect and why:
 
-- **No Personal Data**: We do not collect any personal data such as name, address, email, or phone number.
-- **Technical Information for Feedback**: If you provide feedback, the following technical details may be included to help resolve issues:
-  - App version
-  - Device name
-  - iOS version
+- **No Personal Information Collected**: We do not collect names, addresses, phone numbers, email addresses, or other personally identifiable information.
+- **Technical Information for Support**: If you choose to provide feedback or report a problem, anonymized technical details such as:
+  - App version  
+  - Device model  
+  - Operating system version  
+may be collected to help resolve the issue.
 
-This data is anonymized and not linked to any individual user.
+- **Phonics Feature Audio Input**: Our phonics feature listens to alphabet pronunciation to guide and assist children in improving their speech. **No recordings are saved or transmitted**, and all audio data is processed locally on the device.
+
+- **Anonymous Usage Data**: General analytics may be collected to improve app performance and user experience. This data is aggregated and cannot be used to identify individual users.
 
 ---
 
 ### Parental Consent
 
-ABC 123 Fun does not collect or request personal information directly from children. Children can safely use the app under parental or guardian supervision.
-
----
-
-### Expanded Audience
-
-ABC 123 Fun is an educational tool designed for both **children and adults**. While children can learn Hindi alphabets and rhymes, adults can also use the app to learn the English language effectively.
+We do not knowingly collect personal data from children under 13. Children can safely use the app under the supervision of a parent or guardian. No part of the app requires or encourages submission of personal data.
 
 ---
 
 ### Usage of the App
 
-To operate effectively:
-- An **internet connection** is required to download resources.
-- **Anonymous usage data** may be collected for improving app functionality. This data cannot identify or track individual users.
+To function properly:
+- An **internet connection** may be required to download new content or updates.
+- **Tracing tools** are used only for English alphabets and numbers.
+- Other educational content (such as grammar, days of the week, shapes, animals, good habits, and early math) is accessed through **games, visual aids, and listening exercises**.
 
 ---
 
-### Links to Other Sites
+### Children’s Privacy
 
-Our service may contain links to other sites that are not operated by us. Any external links in the app are protected by a parental gate to prevent children from accessing them without supervision.
-Once you click on a third-party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
-Please note that we have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+ABC 123 Fun is primarily intended for children aged 4 and up. We comply fully with **COPPA** and other relevant regulations:
+- No personal data is collected.
+- Educational features are designed to protect children's safety and privacy.
 
----
-
-### Children's Privacy
-
-Our app is designed for children ages 4+, and we are committed to protecting their privacy. We comply with applicable child privacy laws, including the Children’s Online Privacy Protection Act (COPPA).
-We do not collect any personal information from children. If we ever collect data, it will only be done with verified parental consent.
-If you are a parent or guardian and believe your child has provided us with personal information without your consent, please contact us immediately at **golearnenglishfun@gmail.com**. We will promptly delete such information.
+If a parent or guardian believes that their child has submitted personal information without consent, they should contact us at **golearnenglishfun@gmail.com**. We will promptly delete any such information.
 
 ---
 
 ### Security Measures
 
-While ABC 123 Fun does not collect personal information, we take the following steps to ensure the app's safety:
-- Ensure secure access to resources.
-- Monitor compliance with privacy regulations.
-- Regularly review and update our systems for potential vulnerabilities.
+Even though we do not store personal data, we take security seriously:
+- Secure access to downloadable resources.
+- Regular review of systems for privacy compliance and potential vulnerabilities.
+- Restricted app access to external links via **parental gates**.
 
 ---
 
-### Parental Rights and Controls
+### Third-Party Links
 
-As a parent, you have the right to:
-- Review and delete any feedback-related data shared with us.
-- Contact us for questions about our data collection practices.
+The app may include links to third-party websites (such as educational resources). These are protected by a **parental gate** and not directly accessible to children. We recommend reviewing the privacy policies of these third-party sites before interacting with them.
 
-To exercise these rights, email us at: **golearnenglishfun@gmail.com**
+We are not responsible for the practices or content of any external sites.
 
 ---
 
-### Changes to This Privacy Policy
+### Parental Rights
 
-We reserve the right to update or modify this privacy policy at any time to comply with evolving regulations or improve transparency. If significant changes occur, we will notify users via the app and update the policy on our website.
+Parents and guardians may:
+- Review any data provided via app feedback.
+- Contact us to inquire about our privacy practices.
+
+To exercise these rights, please email us at: **golearnenglishfun@gmail.com**
+
+---
+
+### Updates to This Privacy Policy
+
+This privacy policy may be updated periodically to reflect new features or changes in privacy laws. We will post any updates here and, if necessary, notify users through the app.
 
 ---
 
 ### Contact Us
 
-If you have questions or concerns about this privacy policy or your safety while using Hindi Master, please contact us at:
+If you have questions or concerns about this policy or your privacy while using ABC 123 Fun, please contact:
 
 **Email**: **golearnenglishfun@gmail.com**
-
