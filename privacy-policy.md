@@ -16,7 +16,7 @@ permalink: /privacy-policy/
 
 # Privacy Policy
 
-Effective Date: 1 April 2025
+Effective Date: 1 May 2025
 
 At ABC 123 Fun, we value the privacy and safety of all users, including children and adults. This privacy policy outlines how we collect, use, and protect data associated with the app, in compliance with regulations such as **COPPA (Children’s Online Privacy Protection Act)** and **GDPR-K (General Data Protection Regulation for Kids)**. 
 
@@ -71,21 +71,6 @@ Please note that we have no control over and assume no responsibility for the co
 Our app is designed for children ages 4+, and we are committed to protecting their privacy. We comply with applicable child privacy laws, including the Children’s Online Privacy Protection Act (COPPA).
 We do not collect any personal information from children. If we ever collect data, it will only be done with verified parental consent.
 If you are a parent or guardian and believe your child has provided us with personal information without your consent, please contact us immediately at **golearnenglishfun@gmail.com**. We will promptly delete such information.
-
----
-
-### Third-Party Services
-
-ABC 123 Fun uses the following third-party services:  
-
-1. **YouTube Videos**:  
-   - The app provides access to YouTube videos (e.g., children’s rhymes) using the default YouTube player.
-   - These videos are streamed directly from YouTube, and YouTube may collect data (e.g., device type, usage patterns) as part of its service.  
-   - ABC 123 Fun does not collect, store, or process any personal data related to YouTube usage.  
-   Refer to YouTube’s privacy policy for details: [YouTube Privacy Policy](https://policies.google.com/privacy)
-
-**Important Note for Parents**:  
-We recommend parental supervision while children access YouTube videos to ensure a safe experience.
 
 ---
 
