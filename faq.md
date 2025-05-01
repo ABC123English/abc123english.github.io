@@ -18,7 +18,6 @@ ABC 123 Fun is an all-in-one educational app designed to help children and begin
 - Play memory and matching games with alphabets and images.
 - Enjoy quizzes on alphabet sounds, vocabulary, and animals.
 - Explore listening exercises and learning games for grammar, seasons, good habits, and early math concepts.
-- Watch curated YouTube videos of kids’ English rhymes (with parental gate).
 - Use a free sketching and writing canvas.
 
 ---
