@@ -222,7 +222,6 @@ title: "ABC 123 Fun - English, Math & Life Skills for Kids"
 
 <!-- Top-right Buttons -->
 <div class="top-right-buttons">
-  <a href="faq" class="button-link">FAQs</a>
   <a href="https://abc123english.github.io/privacy-policy/" class="button-link">Privacy Policy</a>
 </div>
 
