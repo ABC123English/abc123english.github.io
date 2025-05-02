@@ -49,8 +49,7 @@ We do not knowingly collect personal data from children under 13. Children can s
 
 To function properly:
 - An **internet connection** may be required to download new content or updates.
-- **Tracing tools** are used only for English alphabets and numbers.
-- Other educational content (such as grammar, days of the week, shapes, animals, good habits, and early math) is accessed through **games, visual aids, and listening exercises**.
+- Educational content (such as grammar, days of the week, shapes, animals, good habits, early math, and more) is accessed through **games, visual aids, and listening exercises**.
 
 ---
 
