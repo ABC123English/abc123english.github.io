@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: "Privacy Policy - ABC 123 Fun"
+title: "Privacy Policy - ABC 123 Fun - Trace & Learn"
 permalink: /privacy-policy/
 ---
 
@@ -18,13 +18,13 @@ permalink: /privacy-policy/
 
 **Effective Date: 1 May 2025**
 
-At **ABC 123 Fun**, we prioritize the privacy and safety of all users, especially children. This privacy policy explains how we collect, use, and protect your data in accordance with laws such as **COPPA (Children’s Online Privacy Protection Act)** and **GDPR-K (General Data Protection Regulation for Kids)**.
+At **ABC 123 Fun - Trace & Learn**, we prioritize the privacy and safety of all users, especially children. This privacy policy explains how we collect, use, and protect your data in accordance with laws such as **COPPA (Children’s Online Privacy Protection Act)** and **GDPR-K (General Data Protection Regulation for Kids)**.
 
 ---
 
 ### Data Collection
 
-**ABC 123 Fun** is designed to minimize data collection while providing a rich and interactive learning experience. Here's what we collect and why:
+**ABC 123 Fun - Trace & Learn** is designed to minimize data collection while providing a rich and interactive learning experience. Here's what we collect and why:
 
 - **No Personal Information Collected**: We do not collect names, addresses, phone numbers, email addresses, or other personally identifiable information.
 - **Technical Information for Support**: If you choose to provide feedback or report a problem, anonymized technical details such as:
@@ -55,7 +55,7 @@ To function properly:
 
 ### Children’s Privacy
 
-ABC 123 Fun is primarily intended for children aged 4 and up. We comply fully with **COPPA** and other relevant regulations:
+ABC 123 Fun - Trace & Learn is primarily intended for children aged 4 and up. We comply fully with **COPPA** and other relevant regulations:
 - No personal data is collected.
 - Educational features are designed to protect children's safety and privacy.
 
