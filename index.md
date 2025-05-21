@@ -1,6 +1,6 @@
 ---
 layout: minimal
-title: "ABC 123 Fun - English, Math & Life Skills for Kids"
+title: "ABC 123 Fun - Trace & Learn - English, Math & Life Skills for Kids"
 #permalink: /marketing/
 ---
 
@@ -233,13 +233,13 @@ title: "ABC 123 Fun - English, Math & Life Skills for Kids"
 
   <!-- Right half with text and button -->
   <div class="right-half">
-    <div class="title">Introducing ABC 123 Fun - English, Math & Life Skills for Kids</div>
+    <div class="title">Introducing ABC 123 Fun - Trace & Learn - English, Math & Life Skills for Kids</div>
     <div class="description">
       "Empowering young minds to explore the world of English and early learning — one fun activity at a time."
     </div>
     <div class="additional-info">
       This all-in-one educational app is designed to help children and beginners build strong foundational skills in English and early learning through fun and engaging activities.
-Children can explore a wide range of topics—such as days of the week, months, shapes, colors, animals, birds, flowers, foods, fruits, vegetables, clothes, vehicles, family, body parts, stationery, occupations, directions, grammar, math, seasons, emotions, good manners and social skills, musical instruments, healthy vs. junk food, technology around us, safety and hygiene, and good habits—through interactive games and listening exercises.
+Children can explore a wide range of topics—such as days of the week, months, shapes, colors, animals, birds, insects, reptiles, amphibians, home places, flowers, foods, fruits, vegetables, clothes, vehicles, family, body parts, stationery, occupations, directions, grammar, math, seasons, emotions, good manners and social skills, musical instruments, healthy vs. junk food, technology around us, safety and hygiene, and good habits—through interactive games and listening exercises.
 The app also features a phonics tool that listens to children's pronunciation of the alphabet to help them improve accuracy and confidence.
 Perfect for early learners, this app combines education and entertainment to make learning English and essential life skills both effective and fun.
     </div>
